@@ -171,10 +171,21 @@
   
 }
 
+
 .s-btn{
   background-color: #F75780;
   color: white;
   width: 250px;
+}
+.ftr{
+    background-color: rgb(70, 80, 90);
+    height: 100px;
+    padding-top: 45px;
+    
+}
+.ftr a{
+    text-decoration: none;   
+    color: white; 
 }
 
 p:nth-child(1n) {
@@ -217,4 +228,12 @@ p:nth-child(1n) {
 i {
   color: #2867B2;
   margin-top: 1vw
+}
+
+@media screen and (max-width: 800px) {
+  .ftr{
+    height: 100px;
+    padding-top: 10px;
+    
+}
 }
