@@ -157,7 +157,7 @@
   display: flex;
   position: absolute;
   top: 20%;
-  font-size: 4vw;
+  font-size: 3.6vw;
   text-shadow: 2px 2px black;
   font-family: 'Anton', sans-serif;
 
@@ -235,5 +235,20 @@ i {
     height: 130px;
     padding-top: 25px;
     
+}
+.cont{
+  width: 46vw;
+  height: 20vw;
+}
+.line{
+  width: 60vw;
+  height: 0.5vw;
+}
+.blob{
+  width: 30vw;
+  height: 10vw;
+}
+.text{
+  font-size: 10vw;
 }
 }
