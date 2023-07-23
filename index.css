@@ -179,7 +179,7 @@
 }
 .ftr{
     background-color: rgb(70, 80, 90);
-    height: 100px;
+    height: 130px;
     padding-top: 45px;
     
 }
@@ -232,8 +232,8 @@ i {
 
 @media screen and (max-width: 800px) {
   .ftr{
-    height: 100px;
-    padding-top: 10px;
+    height: 130px;
+    padding-top: 25px;
     
 }
 }
